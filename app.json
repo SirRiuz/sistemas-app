@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Sistemas",
+    "slug": "Sistemas",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.sistemas.riuz.dev"
+    }
+  }
+}
